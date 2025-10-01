@@ -1,6 +1,6 @@
 # Hi, I'm Shuyuan Yang! 👋
 
-I'm a senior at New York University (NYU) majoring in Mathematics and Computer Science. I'm passionate about software development and enjoy hobbies like Sudoku, hiking, and swimming.
+I'm a senior at New York University majoring in Mathematics and Computer Science. I'm passionate about software development and enjoy hobbies like Sudoku, hiking, and swimming.
 
 - 📫 How to reach me: **shuyuanyang04@gmail.com**
 - 😄 Pronouns: **She/Her/Hers**
