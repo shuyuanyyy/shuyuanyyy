@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[LINK_TO_YOUR_BANNER_IMAGE]" alt="Hello! I'm Shuyuan Yang">
-</p>
-
 # Hi, I'm Shuyuan Yang! 👋
 
 I'm a senior at New York University (NYU) majoring in Mathematics and Computer Science. I'm passionate about software development and enjoy hobbies like Sudoku, hiking, and swimming.
