@@ -2,8 +2,6 @@
 
 I'm a senior at New York University (NYU) majoring in Mathematics and Computer Science. I'm passionate about software development and enjoy hobbies like Sudoku, hiking, and swimming.
 
-- 🔭 I’m currently working on **a Google Chrome extension**.
-- 🌱 I’m currently learning more about **AI and its practical applications**.
 - 📫 How to reach me: **shuyuanyang04@gmail.com**
 - 😄 Pronouns: **She/Her/Hers**
 
